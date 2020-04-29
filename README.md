@@ -1,7 +1,7 @@
 # Springboard
 This Springboard project folder includes the following sublevel folders for each each projects
-(1.2) Folders:
 
+(1) Folders:
 	>> Capstone Project 1
 	>> Capstone Project 2
 	>> Mini-Projects
